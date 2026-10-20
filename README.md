@@ -1,0 +1,1 @@
+# campusgo-student-events
